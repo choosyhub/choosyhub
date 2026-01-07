@@ -43,8 +43,8 @@ const choosy = {
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=notharshyeet&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="auto" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notharshyeet&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="auto" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=choosyhub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="auto" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choosyhub&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="auto" alt="languages graph" />
   <!-- Note: Replace 'notharshyeet' with your actual GitHub username if different -->
 </div>
 
