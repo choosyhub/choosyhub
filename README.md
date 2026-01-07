@@ -5,7 +5,7 @@
   ### *biskoot*
 
   <a href="https://discordapp.com/users/888687422609715211">
-    <img src="https://img.shields.io/badge/Discord-notharshyeet-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-choosy-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:reach@choosy.dev">
     <img src="https://img.shields.io/badge/Mail-reach%40choosy.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -22,19 +22,14 @@
 <div align="center">
 
 ```javascript
-const choosy = {
-    pronouns: ["He", "Him", "Cooked"],
-    age: 16,
-    aka: "Choosy",
-    location: "India (Bharat) 🇮🇳",
-    stack: [
-        "React", "Next.js", "Node.js",
-        "MongoDB", "Stripe", "Discord Bots"
-    ],
-    pioneerAt: "procrastination",
-    currentlyLearning: "life",
-    education: "self-taught"
-};
+const Choosy = () => (
+    <Life
+        name="Choosy"
+        stack={["React", "Next.js", "MongoDB"]}
+        pioneerAt="Procrastination"
+        status="Cooked"
+    />
+);
 ```
 
 </div>
@@ -45,10 +40,9 @@ const choosy = {
   <h3>📊 GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=choosyhub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="auto" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choosyhub&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="auto" alt="languages graph" />
-  <!-- Note: Replace 'notharshyeet' with your actual GitHub username if different -->
 </div>
 
 <br />
 <div align="center">
-  <code>U:\Earth\India\He\Harshit</code>
+  <code>U:\Earth\India\He\Choosy</code>
 </div>
